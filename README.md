@@ -18,8 +18,11 @@ One of the cool things about R is that you can modify its functionality to strea
 
 - Open RStudio
 - Click on the "Console" tab in the left hand pane of RStudio
-- To install packages type:
+- To install packages, use the `install.packages()` function. This function takes the name of the package to be installed encased in single or double quotes.
  ```{r}
- install.packages("name of package)
+ install.packages("tidyverse")
+ install.packages("rstatix")
+ install.packages("ggpubr")
+ install.packages("AMCP")
  ```
 

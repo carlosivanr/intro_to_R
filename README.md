@@ -7,12 +7,8 @@
 [**Download the workshop materials by clicking here**](https://github.com/carlosivanr/r_talk/).
 
 ## Pre-workshop instructions
-- [Install R](http://cran.wustl.edu/) 
-
-
-
-- [Windows](setup-instructions/windows_install_python.md)
-- [Mac OS](setup-instructions/macos_install_python.md)
-- [Ubuntu](setup-instructions/ubuntu_install_python.md)
+Install Software
+- [Install R](http://cran.wustl.edu/)
+- [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 ## During the workshop

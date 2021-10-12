@@ -7,7 +7,7 @@
 [**Download the workshop materials by clicking here**](https://github.com/carlosivanr/r_talk/).
 
 ## Pre-workshop instructions
-
+- [Install R](http://cran.wustl.edu/) 
 
 
 

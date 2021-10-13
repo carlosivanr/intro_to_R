@@ -15,12 +15,12 @@ Install Software
 
 
 
-Install Packages \\
+Install Packages
 One of the cool things about R is that you can modify its functionality to streamline some of the tasks that can be tedious or to gain functionality. This is accomplished by installing packages.
 
 - Open RStudio
 - Click on the "Console" tab in the left hand pane of RStudio
-- To install packages, use the `install.packages()` function. This function takes the name of the package to be installed encased in single or double quotes as its input argument.
+- To install packages, use the `install.packages()` function. This function takes the name of the package to be installed encased in single or double quotes as its input argument. The following commands can be copy-pasted into an RStudio Console
  ```{r}
  install.packages("tidyverse")
  install.packages("rstatix")
@@ -30,7 +30,7 @@ One of the cool things about R is that you can modify its functionality to strea
 
 Load Packages
 
-Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as it's input.
+Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as its input.
  ```{r}
  library(tidyverse)
  library(rstatix)

@@ -9,7 +9,7 @@
 Since we will be covering X, Y, and Z in R. First we will need to have a working setup of R and RStudio on your computer.
 
 **Install Software** \
-For this workshop, a working installation of both R and RStudio is needed. If you are new to R, you can think of R as the core programming language and functions to perform statistical analyses. RStudio, on the other hand, is an integrated development environment (IDE). This means that writing code, viewing objects, and plots are all in one convenient software environment. While RStudio is not necessary to work with R, R is most definitely needed for RStudio to work properly. As a side note, RStudio also supports Python, so it's possible to use RStudio and integrate the best of the both R and Python in your research projects.
+For this workshop, a working installation of both R and RStudio is needed. While R is the core programming language RStudio is an integrated development environment (IDE) that requires R to run underneath the hood.
 - [Install R](http://cran.wustl.edu/)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 

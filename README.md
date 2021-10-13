@@ -18,11 +18,18 @@ One of the cool things about R is that you can modify its functionality to strea
 
 - Open RStudio
 - Click on the "Console" tab in the left hand pane of RStudio
-- To install packages, use the `install.packages()` function. This function takes the name of the package to be installed encased in single or double quotes.
+- To install packages, use the `install.packages()` function. This function takes the name of the package to be installed encased in single or double quotes as its input argument.
  ```{r}
  install.packages("tidyverse")
  install.packages("rstatix")
  install.packages("ggpubr")
  install.packages("AMCP")
+ ```
+ - Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session or everytime you open up RStudio. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as it's input.
+ ```{r}
+ library(tidyverse)
+ library(rstatix)
+ library(ggpubr)
+ library(AMCP)
  ```
 

@@ -14,6 +14,7 @@ Install Software
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 Install Packages
+
 One of the cool things about R is that you can modify its functionality to streamline some of the tasks that can be tedious or to gain functionality. This is accomplished by installing packages. An R package is somewhat analogous to a plug-in for your browser, it can change how the original software works.
 
 - Open RStudio

@@ -9,7 +9,7 @@
 ## Pre-workshop instructions
 Since we will be covering X, Y, and Z in R. First we will need to have a working setup of R and RStudio on your computer.
 
-**Install Software** \
+**Install Software**
 - [Install R](http://cran.wustl.edu/)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 

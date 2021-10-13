@@ -13,6 +13,8 @@ Install Software
 - [Install R](http://cran.wustl.edu/)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
+
+
 Install Packages
 
 One of the cool things about R is that you can modify its functionality to streamline some of the tasks that can be tedious or to gain functionality. This is accomplished by installing packages. An R package is somewhat analogous to a plug-in for your browser, it can change how the original software works.
@@ -26,7 +28,10 @@ One of the cool things about R is that you can modify its functionality to strea
  install.packages("ggpubr")
  install.packages("AMCP")
  ```
- - Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session or everytime you open up RStudio. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as it's input.
+
+Load Packages
+
+- Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session or everytime you open up RStudio. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as it's input.
  ```{r}
  library(tidyverse)
  library(rstatix)

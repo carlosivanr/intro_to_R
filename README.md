@@ -9,13 +9,13 @@
 ## Pre-workshop instructions
 Since we will be covering X, Y, and Z in R. First we will need to have a working setup of R and RStudio on your computer.
 
-Install Software
+**Install Software**
 - [Install R](http://cran.wustl.edu/)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 
 
-Install Packages
+**Install Packages**
 One of the cool things about R is that you can modify its functionality to streamline some of the tasks that can be tedious or to gain functionality. This is accomplished by installing packages.
 
 - Open RStudio
@@ -28,8 +28,7 @@ One of the cool things about R is that you can modify its functionality to strea
  install.packages("AMCP")
  ```
 
-Load Packages
-
+**Load Packages**
 Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as its input.
  ```{r}
  library(tidyverse)

@@ -31,7 +31,7 @@ One of the cool things about R is that you can modify its functionality to strea
 
 Load Packages
 
-- Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session or everytime you open up RStudio. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as it's input.
+Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session or everytime you open up RStudio. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as it's input.
  ```{r}
  library(tidyverse)
  library(rstatix)

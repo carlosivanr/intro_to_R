@@ -1,4 +1,4 @@
-# Introduction to R for behavioral neuroscientists
+# Introduction to R
 - California State University, Chico
 - Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/)
 - Date: TBD
@@ -6,19 +6,19 @@
 [**Download the workshop materials by clicking here**](https://github.com/carlosivanr/r_talk/).
 
 ## Pre-workshop instructions
-Since we will be covering X, Y, and Z in R. First we will need to have a working setup of R and RStudio on your computer.
+In this workshop, we will be covering basic commands and statistics in R to get you over the hump and start programming with R.
 
 **Install Software** \
-For this workshop, a working installation of both R and RStudio is needed. While R is the core programming language RStudio is an integrated development environment (IDE) that requires R to run underneath the hood.
+A working installation of both R and RStudio is required. R and RStudio are two completely different things. R is the core programming language and RStudio is an integrated development environment (IDE) that lets you work with.
 - [Install R](http://cran.wustl.edu/)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 **Install Packages** \
-One of the cool things about R is that you can modify its functionality to streamline some of the tasks that can be tedious or to gain functionality. This is accomplished by installing packages.
+When installing R, you are getting a "base" version. We can add features and functionality to R by installing and then loading packages.
 
 - Open RStudio
 - Click on the "Console" tab in the left hand pane of RStudio
-- To install packages, use the `install.packages()` function. This function takes the name of the package to be installed encased in single or double quotes as its input argument. The following commands can be copy-pasted into an RStudio Console
+- To install packages, use the `install.packages()` function. This function takes the name of the package to be installed encased in single or double quotes as its input argument. The following commands can be copy-pasted and then run in the RStudio Console.
  ```{r}
  install.packages("tidyverse")
  install.packages("rstatix")
@@ -27,7 +27,7 @@ One of the cool things about R is that you can modify its functionality to strea
  ```
 
 **Load Packages** \
-Once a package is installed, it needs to be loaded into the R Session to become available for use. This has to be done during each session. To load a package, use the `library()` function. Simple pass in the name of the package, with out quotes as its input.
+Once a package is installed, it needs to be loaded into the R Session to become available for use. Packages need to be installed during each session. To load a package, use the `library()` function. Simply pass in the name of the package, with out quotes as its input. The following can be copy pasted into the console.
  ```{r}
  library(tidyverse)
  library(rstatix)

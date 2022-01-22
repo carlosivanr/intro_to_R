@@ -1,5 +1,5 @@
-# Introduction to R
-- Workshop for R CSU Chico
+# Introduction to R for behavioral neuroscientists
+- California State University, Chico
 - Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/)
 - Date: TBD
 

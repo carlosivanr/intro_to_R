@@ -20,7 +20,7 @@ A working installation of both R and RStudio is required. R and RStudio are two 
 - [Install R](http://cran.wustl.edu/)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-**Install Packages** \
+<!-- **Install Packages** \
 When installing R, you are getting a base version with a set of built-in functions. We can add features and functionality to R by installing and then loading packages. These packages will have additional functions and some will have built-in data sets to practice executing functions.
 
 - Open RStudio
@@ -40,6 +40,8 @@ Once a package is installed, it needs to be loaded into the R Session to become 
  library(ggpubr)
  library(AMCP)
  ```
+-->
+
  **Download Materials**
 - [**Navigate to this github repository**](https://github.com/carlosivanr/intro_to_R/)
 - Click on the "Code" button

@@ -4,7 +4,6 @@
 - Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD. Mind Research Network
 - Date: February 16, 2022
 
-<!-- [**Download the workshop materials by clicking here**](https://github.com/carlosivanr/intro_to_R/). -->
 
 ## Pre-workshop instructions
 In this workshop, we will be covering basic commands in R to get users over the hump of learning R.
@@ -26,6 +25,11 @@ When installing R, you are getting a base version with a set of built-in functio
  install.packages("ggpubr")
  install.packages("AMCP")
  ```
+** Download Materials** \
+[**Navigate to this github repository**](https://github.com/carlosivanr/intro_to_R/)
+- Click on the "Clone"
+- Select download as zip
+
 
 **Load Packages** \
 Once a package is installed, it needs to be loaded into the R Session to become available for use. Packages need to be loaded during each session. To load a package, use the `library()` function. Simply pass in the name of the package, with out quotes as its input. The following can be copy pasted into the console.

@@ -17,7 +17,7 @@ In this workshop, we will be covering basic commands in R to get users over the 
 
 **Install Software** \
 A working installation of both R and RStudio is required. R and RStudio are two completely different things. R is the core programming language and RStudio is an integrated development environment (IDE) that makes working with R easier.
-- [Install R](http://cran.wustl.edu/)
+- [Install R](https://cloud.r-project.org)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 <!-- **Install Packages** \

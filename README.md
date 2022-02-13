@@ -1,12 +1,12 @@
 # Introduction to R
 - California State University, Chico
-- Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/)
-- Date: TBD
+- Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD
+- Date: February 16, 2022
 
 [**Download the workshop materials by clicking here**](https://github.com/carlosivanr/r_talk/).
 
 ## Pre-workshop instructions
-In this workshop, we will be covering basic commands and statistics in R to get you over the hump and start programming with R.
+In this workshop, we will be covering basic commands in R to get users over the hump of learning R.
 
 **Install Software** \
 A working installation of both R and RStudio is required. R and RStudio are two completely different things. R is the core programming language and RStudio is an integrated development environment (IDE) that lets you work with.
@@ -14,7 +14,7 @@ A working installation of both R and RStudio is required. R and RStudio are two 
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 **Install Packages** \
-When installing R, you are getting a "base" version. We can add features and functionality to R by installing and then loading packages.
+When installing R, you are getting a base version with a set of built-in functions. We can add features and functionality to R by installing and then loading packages. These packages will have additional functions and some will have built-in data sets to practice on.
 
 - Open RStudio
 - Click on the "Console" tab in the left hand pane of RStudio
@@ -27,11 +27,22 @@ When installing R, you are getting a "base" version. We can add features and fun
  ```
 
 **Load Packages** \
-Once a package is installed, it needs to be loaded into the R Session to become available for use. Packages need to be installed during each session. To load a package, use the `library()` function. Simply pass in the name of the package, with out quotes as its input. The following can be copy pasted into the console.
+Once a package is installed, it needs to be loaded into the R Session to become available for use. Packages need to be loaded during each session. To load a package, use the `library()` function. Simply pass in the name of the package, with out quotes as its input. The following can be copy pasted into the console.
  ```{r}
  library(tidyverse)
  library(rstatix)
  library(ggpubr)
  library(AMCP)
  ```
+ 
+ **Function Name Conflicts** \
+ Every now and then you may load a package that contains functions with overlapping names. Usually these come up in a warning messages when loading a package. To avoid confusion, you can specify the package that and function in code. This is usually seen as the package name, double colons, and then the function. This is helpful for troubleshooting
+ ```{r}
+ # Normal call to the select function
+ select(data_frame, column_to_select)
+ 
+ # Specifying the select function from the dplyr package
+ dplyr::select(data_frame, column_to_select)
+ ```
+ 
 

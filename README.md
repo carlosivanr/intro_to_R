@@ -40,7 +40,7 @@ Once a package is installed, it needs to be loaded into the R Session to become 
  library(AMCP)
  ```
  
- **Function Name Conflicts** \
+ <!-- **Function Name Conflicts** \
  Every now and then you may load a package that contains functions with overlapping names. Usually these come up in a warning messages when loading a package. To avoid confusion, you can specify the package and function in code. This is usually written as the package name, double colons, and then the function. This is helpful for troubleshooting some code errors.
  ```{r}
  # Normal call to the select function
@@ -49,5 +49,5 @@ Once a package is installed, it needs to be loaded into the R Session to become 
  # Specifying the select function from the dplyr package
  dplyr::select(data_frame, column_to_select)
  ```
- 
+ -->
 

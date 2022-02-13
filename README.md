@@ -15,7 +15,7 @@ A working installation of both R and RStudio is required. R and RStudio are two 
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 **Install Packages** \
-When installing R, you are getting a base version with a set of built-in functions. We can add features and functionality to R by installing and then loading packages. These packages will have additional functions and some will have built-in data sets to practice on.
+When installing R, you are getting a base version with a set of built-in functions. We can add features and functionality to R by installing and then loading packages. These packages will have additional functions and some will have built-in data sets to practice executing functions.
 
 - Open RStudio
 - Click on the "Console" tab in the left hand pane of RStudio

@@ -26,9 +26,9 @@ When installing R, you are getting a base version with a set of built-in functio
  install.packages("AMCP")
  ```
 **Download Materials** \
-[**Navigate to this github repository**](https://github.com/carlosivanr/intro_to_R/)
+- [**Navigate to this github repository**](https://github.com/carlosivanr/intro_to_R/)
 - Click on the "Clone" button
-- Select download as zip
+- Select "Download Zip"
 
 
 **Load Packages** \

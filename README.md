@@ -25,12 +25,6 @@ When installing R, you are getting a base version with a set of built-in functio
  install.packages("ggpubr")
  install.packages("AMCP")
  ```
-**Download Materials**
-- [**Navigate to this github repository**](https://github.com/carlosivanr/intro_to_R/)
-- Click on the "Code" button
-- Select "Download Zip"
-
-
 **Load Packages** \
 Once a package is installed, it needs to be loaded into the R Session to become available for use. Packages need to be loaded during each session. To load a package, use the `library()` function. Simply pass in the name of the package, with out quotes as its input. The following can be copy pasted into the console.
  ```{r}
@@ -39,7 +33,12 @@ Once a package is installed, it needs to be loaded into the R Session to become 
  library(ggpubr)
  library(AMCP)
  ```
- 
+ **Download Materials**
+- [**Navigate to this github repository**](https://github.com/carlosivanr/intro_to_R/)
+- Click on the "Code" button
+- Select "Download Zip"
+
+
  <!-- 
 **Function Name Conflicts** \
  Every now and then you may load a package that contains functions with overlapping names. Usually these come up in a warning messages when loading a package. To avoid confusion, you can specify the package and function in code. This is usually written as the package name, double colons, and then the function. This is helpful for troubleshooting some code errors.

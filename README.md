@@ -1,4 +1,4 @@
-# Introduction to R
+# Introduction to R Workshop
 - California State University, Chico
 - Department of Psychology
 - Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD. Mind Research Network

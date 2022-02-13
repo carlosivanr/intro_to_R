@@ -38,7 +38,14 @@ Once a package is installed, it needs to be loaded into the R Session to become 
 - Click on the "Code" button
 - Select "Download Zip"
 
-
+## Learning Objectives
+- Installing and loading R packages
+- Variable assignment
+- Arithmetic
+- Data types
+- Indexing 
+ 
+ 
  <!-- 
 **Function Name Conflicts** \
  Every now and then you may load a package that contains functions with overlapping names. Usually these come up in a warning messages when loading a package. To avoid confusion, you can specify the package and function in code. This is usually written as the package name, double colons, and then the function. This is helpful for troubleshooting some code errors.

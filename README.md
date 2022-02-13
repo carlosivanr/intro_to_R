@@ -6,7 +6,6 @@
 ## Learning Objectives
 - Install R and RStudio
 - Navigate RStudio panes
-- Install and load R packages
 - Assign and reassign variables
 - Perform arithmetic
 - Learn about data types

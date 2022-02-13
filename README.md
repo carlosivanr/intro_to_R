@@ -3,6 +3,13 @@
 - Date: February 16, 2022
 - California State University, Chico. Department of Psychology
 
+## Learning Objectives
+- Install R and RStudio
+- Installing and loading R packages
+- Variable assignment
+- Arithmetic
+- Data types
+- Indexing 
 
 ## Pre-workshop instructions
 In this workshop, we will be covering basic commands in R to get users over the hump of learning R.
@@ -37,13 +44,6 @@ Once a package is installed, it needs to be loaded into the R Session to become 
 - Click on the "Code" button
 - Select "Download Zip"
 
-## Learning Objectives
-- Installing and loading R packages
-- Variable assignment
-- Arithmetic
-- Data types
-- Indexing 
- 
  
  <!-- 
 **Function Name Conflicts** \
@@ -56,4 +56,3 @@ Once a package is installed, it needs to be loaded into the R Session to become 
  dplyr::select(data_frame, column_to_select)
  ```
  -->
-

@@ -7,7 +7,7 @@
 # Prerequisites:
 # 1. Download and install R
 # 2. Download and install RStudio
-# 3. Working internet connection if required packages are not installed
+# 3. Working internet connection required if packages are not installed
 
 #### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
 

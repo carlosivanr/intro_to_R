@@ -37,7 +37,7 @@ Once a package is installed, it needs to be loaded into the R Session to become 
  ```
  
  **Function Name Conflicts** \
- Every now and then you may load a package that contains functions with overlapping names. Usually these come up in a warning messages when loading a package. To avoid confusion, you can specify the package that and function in code. This is usually seen as the package name, double colons, and then the function. This is helpful for troubleshooting
+ Every now and then you may load a package that contains functions with overlapping names. Usually these come up in a warning messages when loading a package. To avoid confusion, you can specify the package and function in code. This is usually written as the package name, double colons, and then the function. This is helpful for troubleshooting errors in code.
  ```{r}
  # Normal call to the select function
  select(data_frame, column_to_select)

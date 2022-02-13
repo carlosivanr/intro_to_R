@@ -27,7 +27,7 @@ When installing R, you are getting a base version with a set of built-in functio
  ```
 **Download Materials**
 - [**Navigate to this github repository**](https://github.com/carlosivanr/intro_to_R/)
-- Click on the "Clone" button
+- Click on the "Code" button
 - Select "Download Zip"
 
 

@@ -1,7 +1,7 @@
 # Introduction to R Workshop
 - Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD. Mind Research Network
 - Date: February 16, 2022
-- California State University, Chico. Department of Psychology
+- Location: CSU Chico, virtual workshop
 
 ## Learning Objectives
 - Install R and RStudio

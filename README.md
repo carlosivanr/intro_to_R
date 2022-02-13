@@ -5,11 +5,11 @@
 
 ## Learning Objectives
 - Install R and RStudio
-- Installing and loading R packages
-- Variable assignment
-- Arithmetic
-- Data types
-- Indexing 
+- Install and load R packages
+- Assign variables
+- Perform arithmetic
+- Learn about data types
+- Perform vector and data frame indexing 
 
 ## Pre-workshop instructions
 In this workshop, we will be covering basic commands in R to get users over the hump of learning R.

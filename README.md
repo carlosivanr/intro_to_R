@@ -4,7 +4,7 @@
 - Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD. Mind Research Network
 - Date: February 16, 2022
 
-#[**Download the workshop materials by clicking here**](https://github.com/carlosivanr/intro_to_R/).
+<!-- [**Download the workshop materials by clicking here**](https://github.com/carlosivanr/intro_to_R/). -->
 
 ## Pre-workshop instructions
 In this workshop, we will be covering basic commands in R to get users over the hump of learning R.

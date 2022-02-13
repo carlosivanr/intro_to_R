@@ -1,6 +1,7 @@
 # Introduction to R
 - California State University, Chico
-- Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD
+- Department of Psychology
+- Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD. Mind Research Network
 - Date: February 16, 2022
 
 [**Download the workshop materials by clicking here**](https://github.com/carlosivanr/r_talk/).

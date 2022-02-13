@@ -13,15 +13,9 @@
 
 # ----------------- Install & load packages -------------
 # Only run these lines if you have not installed the packages
-# install.packages("tidyverse")
-# install.packages("rstatix")
-# install.packages("ggpubr")
 # install.packages("AMCP")
 
 # Load packages
-library(tidyverse)
-library(rstatix)
-library(ggpubr)
 library(AMCP)
 
 # ----------------- Basic R commands -------------

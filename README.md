@@ -1,8 +1,7 @@
 # Introduction to R Workshop
-- California State University, Chico
-- Department of Psychology
 - Author: [Carlos Rodriguez](https://keen-wilson-61a022.netlify.app/), PhD. Mind Research Network
 - Date: February 16, 2022
+- California State University, Chico. Department of Psychology
 
 
 ## Pre-workshop instructions

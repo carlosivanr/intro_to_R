@@ -9,6 +9,7 @@
 - Assign and reassign variables
 - Perform arithmetic
 - Learn about data types
+- Install and load packages
 - Perform vector and data frame indexing 
 
 ## Pre-workshop instructions
